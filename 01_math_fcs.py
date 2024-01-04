@@ -8,7 +8,8 @@ def substract(x, y):
 
 #@TODO
 def multiply(x, y):
-    pass
+    r = x * y
+    return r
 
 def divide(x, y):
     pass
